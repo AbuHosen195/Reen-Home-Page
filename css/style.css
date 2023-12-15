@@ -193,47 +193,16 @@ a {
   background-color: #f2f5f7;
   height: 100%;
 }
-
-/* .flip-box {
-  background-color: transparent;
-  width: 100%;
-  height: 100%;
-  border: 1px solid #f1f1f1;
-  perspective: 1000px;
+.latest-work .card h5 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #506a85;
+  margin-bottom: 15px;
 }
-
-.flip-box-inner {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  transition: transform 0.8s;
-  transform-style: preserve-3d;
+.latest-work .card p {
+  font-size: 14px;
+  color: #73879c;
 }
-
-.flip-box:hover .flip-box-inner {
-  transform: rotateY(180deg);
-}
-
-.flip-box-front,
-.flip-box-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-}
-
-.flip-box-front {
-  background-color: #bbb;
-  color: black;
-}
-
-.flip-box-back {
-  background-color: dodgerblue;
-  color: white;
-  transform: rotateY(180deg);
-} */
 /* get in touch section css start  */
 .get-in-touch .default-btn {
   background-color: #00bc9c;
@@ -265,7 +234,7 @@ a {
 /* footer section css start */
 .top-footer {
   background-color: #2f4052;
-  padding: 80px 0;
+  padding: 30px 0 0 0;
   color: #fff;
 }
 .top-footer h4 {
@@ -327,6 +296,7 @@ a {
   width: 100%;
   padding: 20px 0px 0px;
   background-color: #283645;
+  margin-top: 30px;
 }
 .bottom-footer p {
   font-size: 14px;
