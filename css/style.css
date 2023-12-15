@@ -150,12 +150,7 @@ a {
   background-color: transparent;
   color: #00bc9c;
 }
-.sticky-top-menu {
-  /* position: fixed;
-  top: 50px;
-  width: 100%;
-  z-index: 999; */
-}
+
 /* features section css start */
 .features-section .header h2,
 .latest-work h2,
@@ -234,7 +229,7 @@ a {
 /* footer section css start */
 .top-footer {
   background-color: #2f4052;
-  padding: 30px 0 0 0;
+  padding: 40px 0 0 0;
   color: #fff;
 }
 .top-footer h4 {
@@ -256,8 +251,7 @@ a {
 .top-footer a i {
   margin-left: 10px;
 }
-.top-footer .footer-address {
-}
+
 .top-footer .footer-address li {
   list-style-type: none;
   font-size: 14px;
@@ -296,7 +290,7 @@ a {
   width: 100%;
   padding: 20px 0px 0px;
   background-color: #283645;
-  margin-top: 30px;
+  margin-top: 40px;
 }
 .bottom-footer p {
   font-size: 14px;
