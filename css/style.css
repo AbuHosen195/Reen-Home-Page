@@ -114,7 +114,8 @@ a {
   transition: all 0.5s;
 }
 /* slider section css start */
-
+.slider-section {
+}
 .slider-section .carousel-caption {
   position: absolute;
   top: 50%;
@@ -152,6 +153,8 @@ a {
 }
 
 /* features section css start */
+.features-section {
+}
 .features-section .header h2,
 .latest-work h2,
 .get-in-touch h2 {
@@ -187,6 +190,10 @@ a {
 .latest-work {
   background-color: #f2f5f7;
   height: 100%;
+}
+.latest-work img {
+  width: 100%;
+  height: auto;
 }
 .latest-work .card h5 {
   font-size: 20px;
